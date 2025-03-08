@@ -37,7 +37,7 @@ config_auto.h
 /doc/*.xml
 
 my_env
-
+.venv
 # generated version file
 /include/tesseract/version.h
 
